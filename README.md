@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**alexandrabsouz/alexandrabsouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+==========================================================================================================================================
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Alexandra Souza. I work as a Fullstack Developer at Plugthink!.
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexandrabsouz&repo=alexandrabsouz&countColorcountColor)
+
+### Languages & Tools 🛠  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&color=green)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&color=green)&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&color=green)&nbsp;  
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&color=orange)&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&color=orange)&nbsp;  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&color=gray)&nbsp;![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&color=gray)&nbsp;  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&color=yellow)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;  
+![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&color=blue)&nbsp;  
+
+
+### Analytics ⚙️
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabsouz&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=alexandrabsouz&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alexandrabsouz&hide_border=true)
+
+### Let's connect? 🤝
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/alexandrabsouz/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
+<a href="https://www.instagram.com/alexandrabsouz/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+
+</p>
