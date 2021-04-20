@@ -16,11 +16,11 @@ My name is Alexandra Souza. I work as a Fullstack Developer at Plugthink!.
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabsouz&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabsouz&layout=compact&count_private=true&theme=nightowl&show_icons=true)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=alexandrabsouz&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrabsouz&theme=nightowl&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alexandrabsouz&hide_border=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alexandrabsouz&hide_border=true&theme=nightowl&show_icons=true)
 
 ### Let's connect? 🤝
 
