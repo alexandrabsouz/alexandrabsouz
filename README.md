@@ -1,6 +1,5 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Wellcome! </h1>
 
 
 My name is Alexandra Souza. I work as a Fullstack Developer at Plugthink!.
@@ -8,11 +7,11 @@ My name is Alexandra Souza. I work as a Fullstack Developer at Plugthink!.
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexandrabsouz&repo=alexandrabsouz&countColorcountColor)
 
 ### Languages & Tools 🛠  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&color=green)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=green)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&color=green)&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&color=green)&nbsp;  
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&color=orange)&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&color=orange)&nbsp;  
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&color=gray)&nbsp;![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&color=gray)&nbsp;  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&color=yellow)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;  
-![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&color=blue)&nbsp;  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=blue)&nbsp;![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&color=yellow)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=yellow)&nbsp;![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&color=blue)&nbsp;![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&color=yellow)&nbsp;  
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&color=orange)&nbsp;![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&color=purple)&nbsp;  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=orange)&nbsp;![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&color=black)&nbsp;![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&color=gray)&nbsp;  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&color=blue)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;  
+![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-05122A?style=flat&color=orange)&nbsp;  
 
 
 ### Analytics ⚙️
