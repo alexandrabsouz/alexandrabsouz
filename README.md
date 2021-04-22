@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Wellcome! </h1>
 
 
-Sou Alexandra Souza e sou Desenvolvedora Fullstack na Plugthink!
+Sou Alexandra Souza e sou Desenvolvedora Backend na Plugthink!
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexandrabsouz&repo=alexandrabsouz&countColorcountColor)
 
