@@ -1,8 +1,12 @@
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Wellcome! </h1>
-
-
-Sou Alexandra Souza e sou Desenvolvedora Backend na Plugthink!
+# Olá, sou a **Alexandra Souza** 👩‍💻
+## Sou estagiária de desenvolvimento de softwares na [Plugthink!](https://plugthink.com/), seja muito bem vindo(a)!
+ - Gosto de criar coisas novas;
+ - Tendo em mente desenvolver apps;
+ - Minha linguagem principal hoje é python, pretendo migrar para node.js como a principal;
+ - Conheço muito sobre a área, sempre procurei evoluir minha lógica pois linguagens são apenas ferramentas para que você use sua logica.
+ - Estudei muito sobre python, já desenvolvi diversos consumos de apis, bots entre outra coisas em [python](https://github.com/alexandrabsouz/cursos-python)
+ - Comecei meus estudos novamente do zero para aprender mais sobre fundamentos e front-end para migrar para o node.js que voce pode começar por [AQUI](https://github.com/alexandrabsouz/cursos-html-css.git) para ver sobre HTML5 e CSS3 e [AQUI] para ir para os estudos em JS.
+ - Esse repositório estará em construção ainda mas [AQUI](https://github.com/alexandrabsouz/cursos-node.js) se encontrará meus estudos e práticas com node.js
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexandrabsouz&repo=alexandrabsouz&countColorcountColor)
 
