@@ -9,11 +9,11 @@
  <br><br>
  
  - Gosto de aprender coisas novas;
- - Sou extremamente detalhista ao ponte de incomodar com coisas desorganizadas;
+ - Sou extremamente detalhista ao ponto de incomodar com coisas desorganizadas;
  - Tendo em mente desenvolvimento de aplicativos android e desenvolvimento web;
  - Minha linguagem principal hoje é python, pretendo migrar para node.js como a principal;
  - Conheço muito sobre a área, sempre procurei evoluir minha lógica pois linguagens são apenas ferramentas para que você use sua logica;
- - Estudei muito sobre python, já desenvolvi diversos consumos de apis, bots entre outra coisas em [PYTHON](https://github.com/alexandrabsouz/cursos-python);
+ - Hoje desenvolvo diversos consumos de apis, bots, integradores entre outra coisas em [PYTHON](https://github.com/alexandrabsouz/cursos-python);
  - Comecei meus estudos novamente do zero para aprender mais sobre fundamentos e front-end para migrar para o [NODE.JS](https://github.com/alexandrabsouz/cursos-node.js);
  - Clicando em [REPOSITÓRIO](https://github.com/alexandrabsouz/front_repositorio) voce verá meus estudos de fundamentos front-end como HTML5, CSS3 e JS e frameworks.
 <br> <br>
