@@ -28,9 +28,9 @@
   <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_C%23.png"></a>&nbsp;&nbsp;
   <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_python.png"></a>&nbsp;&nbsp;
   <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_node.js.png"></a>&nbsp;&nbsp;
+  <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_typescript.png"></a>&nbsp;&nbsp; 
   <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_html5.png"></a>&nbsp;&nbsp;
   <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_css3.png"></a>&nbsp;&nbsp; 
-  <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_js.png"></a>&nbsp;&nbsp; 
   <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_js.png"></a>&nbsp;&nbsp; 
 
  </div>
