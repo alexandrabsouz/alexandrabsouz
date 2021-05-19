@@ -1,6 +1,6 @@
  ![visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexandrabsouz&repo=alexandrabsouz&countColorcountColor)
  <br><br><br><br>
-<img src="https://github.com/alexandrabsouz/img/blob/main/img/alexandra_img.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Alexandra img">
+<img src="https://github.com/alexandrabsouz/img/blob/main/img/IMG_20191126_145552_641-removebg-preview.png" min-width="300px" max-width="300px" width="350px" align="right" alt="Alexandra img">
 
 # Olá, seja muito bem vindo(a)!
 ### Sou Alexandra Souza👩‍💻, estagiária de desenvolvimento de softwares na [Plugthink!](https://plugthink.com/)
