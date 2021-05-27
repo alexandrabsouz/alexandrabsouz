@@ -83,7 +83,7 @@
  ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alexandrabsouz&hide_border=true&theme=nightowl&show_icons=true)
  <br><br>
 
-<img src="https://github.com/alexandrabsouz/img-git/blob/main/gifs/robozinho.gif" min-width="400px" max-width="150px" width="250px" align="left" alt="Alexandra img"><br>
+<img src="https://github.com/alexandrabsouz/img-git/blob/main/gifs/robozinho.gif" min-width="400px" max-width="150px" width="250px" align="right" alt="Alexandra img"><br>
 <p align="center"><strong>VOCÊ PODE ENTRAR EM CONTATO COMIGO<strong>
 
 <p align="center">
