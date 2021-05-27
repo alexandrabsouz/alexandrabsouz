@@ -1,6 +1,7 @@
  ![visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexandrabsouz&repo=alexandrabsouz&countColorcountColor)
  <br><br><br><br>
-<img src="https://github.com/alexandrabsouz/img/blob/main/img/IMG_20191126_145552_641-removebg-preview.png" min-width="300px" max-width="300px" width="350px" align="right" alt="Alexandra img">
+<img src="https://github.com/alexandrabsouz/img-git/blob/main/img/alexandra.png" min-width="400px" max-width="300px" width="400px" align="right" alt="Alexandra img"><br>
+
 
 # Olá, seja muito bem vindo(a)!
 ### Sou Alexandra Souza👩‍💻, estagiária de desenvolvimento de softwares na [Plugthink!](https://plugthink.com/)
@@ -11,12 +12,17 @@
  - Gosto de aprender coisas novas;
  - Sou extremamente detalhista ao ponto de incomodar com coisas desorganizadas;
  - Tendo em mente desenvolvimento de aplicativos android e desenvolvimento web;
- - Minha linguagem principal hoje é python, pretendo migrar para node.js como a principal;
+ - Comecei a programar com C++ na faculdade, em seguida procurei cursos fora da faculdade e me aprofundei bastante em python;
  - Conheço muito sobre a área, sempre procurei evoluir minha lógica pois linguagens são apenas ferramentas para que você use sua logica;
- - Hoje desenvolvo diversos consumos de apis, bots, integradores entre outra coisas em [PYTHON](https://github.com/alexandrabsouz/cursos-python);
- - Comecei meus estudos novamente do zero para aprender mais sobre fundamentos e front-end para migrar para o [NODE.JS](https://github.com/alexandrabsouz/cursos-node.js);
- - Clicando em [REPOSITÓRIO](https://github.com/alexandrabsouz/front_repositorio) voce verá meus estudos de fundamentos front-end como HTML5, CSS3 e JS e frameworks.
-<br> <br>
+ - Hoje desenvolvo de uma maneira bem tranquila, digamos assim, quaisquer coisas em python;
+ - Entendi uma falha nos meus estudos, pois foquei somente em uma linguagem back-end sem ter dominio básico em front, mas corri atras do erro e agora ja me considero uma Fullstack.
+ 
+## Repositórios de estudos:
+* [Python](https://github.com/alexandrabsouz/cursos-python)
+* [Html-Css](https://github.com/alexandrabsouz/html-css.estudos)
+* [JavaScript](https://github.com/alexandrabsouz/javascript.estudos)
+* [Node.js](https://github.com/alexandrabsouz/nodejs.estudos)
+* [TypeScript](https://github.com/alexandrabsouz/typescript.estudos)
 
 ## Linguagens utilizadas até agora
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabsouz&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true)
@@ -77,7 +83,7 @@
  ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alexandrabsouz&hide_border=true&theme=nightowl&show_icons=true)
  <br><br>
 
-
+<img src="https://github.com/alexandrabsouz/img-git/blob/main/gifs/robozinho.gif" min-width="400px" max-width="150px" width="250px" align="left" alt="Alexandra img"><br>
 <p align="center"><strong>VOCÊ PODE ENTRAR EM CONTATO COMIGO<strong>
 
 <p align="center">
