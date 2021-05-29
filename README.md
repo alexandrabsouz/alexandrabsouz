@@ -18,7 +18,7 @@
  - Entendi uma falha nos meus estudos, pois foquei somente em uma linguagem back-end sem ter dominio básico em front, mas corri atras do erro e agora ja me considero uma Fullstack.
  
 ## Repositórios de estudos:
-* [Python](https://github.com/alexandrabsouz/cursos-python)
+* [Python](https://github.com/alexandrabsouz/python.estudos)
 * [Html-Css](https://github.com/alexandrabsouz/html-css.estudos)
 * [JavaScript](https://github.com/alexandrabsouz/javascript.estudos)
 * [Node.js](https://github.com/alexandrabsouz/nodejs.estudos)
