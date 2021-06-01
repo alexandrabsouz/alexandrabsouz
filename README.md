@@ -31,63 +31,44 @@
 
 <div align="center"><h2> FERRAMENTAS 🛠 </h2><div> 
 <div align="center">
-  <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_C%23.png"></a>&nbsp;&nbsp;
-  <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_python.png"></a>&nbsp;&nbsp;
-  <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_node.js.png"></a>&nbsp;&nbsp;
-  <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_typescript.png"></a>&nbsp;&nbsp; 
-  <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_html5.png"></a>&nbsp;&nbsp;
-  <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_css3.png"></a>&nbsp;&nbsp; 
-  <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_js.png"></a>&nbsp;&nbsp; 
-
+        <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_C%23.png"></a>&nbsp;&nbsp;
+        <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_python.png"></a>&nbsp;&nbsp;
+        <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_node.js.png"></a>&nbsp;&nbsp;
+        <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_typescript.png"></a>&nbsp;&nbsp; 
+        <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_html5.png"></a>&nbsp;&nbsp;
+        <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_css3.png"></a>&nbsp;&nbsp; 
+        <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_js.png"></a>&nbsp;&nbsp; 
+        <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_flask.png"></a> &nbsp;&nbsp;
+        <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_django.png"></a> &nbsp;&nbsp;
+        <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_bootstrap.png"></a> &nbsp;&nbsp;
+        <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_react.png"></a> &nbsp;&nbsp;
+        <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_mysql.png"></a> &nbsp;&nbsp;
+       <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_postgres.png"></a> 
+       <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_AWS.png"></a>&nbsp;&nbsp;
+       <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_heroku.png"></a> 
  </div>
- <br><br>
+ <br><br><br>
 
-
-<div align="center"><h2> FRAMEWORKS / BANCOS DE DADOS  </h2><div> 
-<div align="center">
- <div>
-  <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_flask.png"></a> &nbsp;&nbsp;
-  <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_django.png"></a> &nbsp;&nbsp;
-  <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_bootstrap.png"></a> &nbsp;&nbsp;
-  <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_react.png"></a> &nbsp;&nbsp;
-  <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_mysql.png"></a> &nbsp;&nbsp;
- <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_postgres.png"></a> 
- <div>
-<br><br>
- 
-
-<div align="center"><h2> SISTEMAS OPERACIONAIS </h2><div> 
-<div align="center">
- <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_win.png"></a>&nbsp;&nbsp;
- <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_linux.png"></a>
-</div>
-<br><br>
-
-
-<div align="center"><h2> IDES / DEPLOYS  </h2><div> 
-<div align="center">
- <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_vscode.png"></a> &nbsp;&nbsp;
- <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_pycharm.png"></a>&nbsp;&nbsp;
- <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_AWS.png"></a>&nbsp;&nbsp;
- <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_heroku.png"></a> 
-</div>
-<br><br>
  
 
 
  ## DADOS E ANÁLIZES
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrabsouz&hide_border=true&theme=nightowl&show_icons=true)
+ <div>
+  <a href="https://github.com/alexandrabsouz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrabsouz&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrabsouz&hide_border=true&theme=nightowl&show_icons=true"/>
+<div>
+ 
  <br><br>
-
- ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alexandrabsouz&hide_border=true&theme=nightowl&show_icons=true)
- <br><br>
- ![Snake animation](https://alexandrabsouz/alexandrabsouz/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/alexandrabsouz/alexandrabsouz/blob/output/github-contribution-grid-snake.svg)
 
  <br><br>
 
 <img src="https://github.com/alexandrabsouz/img-git/blob/main/gifs/robozinho.gif" min-width="400px" max-width="150px" width="250px" align="right" alt="Alexandra img"><br>
-<p align="center"><strong>VOCÊ PODE ENTRAR EM CONTATO COMIGO<strong>
+ <br><br>
+ 
+ <p align="center"><strong>VOCÊ PODE ENTRAR EM CONTATO COMIGO<strong></p>
 
 <p align="center">
  <a href="https://www.instagram.com/alexandrabsouz/"><img width=35 src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/alexandrabsouz/"><img width=35 src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"></a> &nbsp;&nbsp; <a href="https://api.whatsapp.com/send?phone=5593984232497&text=Que%20bacana!%20%C3%89%20um%20prazer%20receber%20voc%C3%AA%20aqui%20no%20WhatsApp.%20Estou%20%C3%A0%20sua%20disposi%C3%A7%C3%A3o."><img width=35 src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg"></a>  
