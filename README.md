@@ -55,9 +55,9 @@
  ## DADOS E ANÁLIZES
 
  <div>
-  <a href="https://github.com/alexandrabsouz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrabsouz&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrabsouz&hide_border=true&theme=nightowl&show_icons=true"/>
+     <a href="https://github.com/alexandrabsouz">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrabsouz&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrabsouz&hide_border=true&theme=nightowl&show_icons=true"/>
 <div>
  
  <br><br>
