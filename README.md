@@ -24,12 +24,14 @@
 * [Node.js](https://github.com/alexandrabsouz/nodejs.estudos)
 * [TypeScript](https://github.com/alexandrabsouz/typescript.estudos)
 
-## Linguagens utilizadas até agora
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabsouz&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true)
+ <div align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabsouz&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
+ </div>
 <br><br><br>
 
 
-<div align="center"><h2> FERRAMENTAS 🛠 </h2><div> 
+<div align="center"><h3> Ferramentas</h3><div> 
+ <br>
 <div align="center">
         <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_C%23.png"></a>&nbsp;&nbsp;
         <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_python.png"></a>&nbsp;&nbsp;
@@ -50,10 +52,6 @@
  <br><br><br>
 
  
-
-
- ## DADOS E ANÁLIZES
-
  <div>
  <a href="https://github.com/alexandrabsouz"></a>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrabsouz&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
@@ -66,7 +64,7 @@
  <br><br>
 
 <img src="https://github.com/alexandrabsouz/img-git/blob/main/gifs/robozinho.gif" min-width="400px" max-width="150px" width="250px" align="right" alt="Alexandra img"><br>
- <br><br>
+ 
  
  <p align="center"><strong>VOCÊ PODE ENTRAR EM CONTATO COMIGO<strong></p>
 
