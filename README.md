@@ -33,7 +33,6 @@
 <div align="center"><h3> Ferramentas</h3><div> 
  <br>
 <div align="center">
-        <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_C%23.png"></a>&nbsp;&nbsp;
         <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_python.png"></a>&nbsp;&nbsp;
         <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_node.js.png"></a>&nbsp;&nbsp;
         <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_typescript.png"></a>&nbsp;&nbsp; 
@@ -47,7 +46,6 @@
         <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_mysql.png"></a> &nbsp;&nbsp;
        <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_postgres.png"></a> 
        <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_AWS.png"></a>&nbsp;&nbsp;
-       <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_heroku.png"></a> 
  </div>
  <br><br><br>
 
