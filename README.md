@@ -1,6 +1,7 @@
  ![visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexandrabsouz&repo=alexandrabsouz&countColorcountColor)
- <br><br><br><br>
-<img src="https://github.com/alexandrabsouz/img-git/blob/main/img/alexandra.png" min-width="400px" max-width="300px" width="400px" align="right" alt="Alexandra img"><br>
+ <br><br><br>
+<img src="https://github.com/alexandrabsouz/img-git/blob/main/img/alexandra.png" min-width="400px" max-width="300px" width="400px" align="right" alt="Alexandra img">
+<br><br><br>
 
 
 # Olá, seja muito bem vindo(a)!
