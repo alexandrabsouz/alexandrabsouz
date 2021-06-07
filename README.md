@@ -17,7 +17,7 @@
  - Hoje desenvolvo de uma maneira bem tranquila, digamos assim, de maneira eficiente em python;
 
  
-## Repositórios de estudos:
+#### Repositórios de estudos:
 * [Python](https://github.com/alexandrabsouz/python.estudos)
 * [Html-Css](https://github.com/alexandrabsouz/html-css.estudos)
 * [JavaScript](https://github.com/alexandrabsouz/javascript.estudos)
@@ -64,7 +64,7 @@
 <img src="https://github.com/alexandrabsouz/img-git/blob/main/gifs/robozinho.gif" min-width="400px" max-width="150px" width="250px" align="right" alt="Alexandra img"><br>
  
  
- <p align="center"><strong>VOCÊ PODE ENTRAR EM CONTATO COMIGO<strong></p>
+ <p align="center"><strong>Você pode entrar em contato comigo<strong></p>
 
 <p align="center">
  <a href="https://www.instagram.com/alexandrabsouz/"><img width=35 src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/alexandrabsouz/"><img width=35 src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"></a> &nbsp;&nbsp; <a href="https://api.whatsapp.com/send?phone=5593984232497&text=Que%20bacana!%20%C3%89%20um%20prazer%20receber%20voc%C3%AA%20aqui%20no%20WhatsApp.%20Estou%20%C3%A0%20sua%20disposi%C3%A7%C3%A3o."><img width=35 src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg"></a>  
