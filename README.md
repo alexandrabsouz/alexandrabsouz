@@ -11,11 +11,10 @@
  
  - Gosto de aprender coisas novas;
  - Sou extremamente detalhista ao ponto de incomodar com coisas desorganizadas;
- - Tendo em mente desenvolvimento de aplicativos android e desenvolvimento web;
  - Comecei a programar com C++ na faculdade, em seguida procurei cursos fora da faculdade e me aprofundei bastante em python;
  - Conheço muito sobre a área, sempre procurei evoluir minha lógica pois linguagens são apenas ferramentas para que você use sua logica;
- - Hoje desenvolvo de uma maneira bem tranquila, digamos assim, quaisquer coisas em python;
- - Entendi uma falha nos meus estudos, pois foquei somente em uma linguagem back-end sem ter dominio básico em front, mas corri atras do erro e agora ja me considero uma Fullstack.
+ - Hoje desenvolvo de uma maneira bem tranquila, digamos assim, de maneira eficiente em python;
+
  
 ## Repositórios de estudos:
 * [Python](https://github.com/alexandrabsouz/python.estudos)
