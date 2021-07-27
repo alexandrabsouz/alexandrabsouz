@@ -21,8 +21,6 @@
 * [Python](https://github.com/alexandrabsouz/python.estudos)
 * [Html-Css](https://github.com/alexandrabsouz/html-css.estudos)
 * [JavaScript](https://github.com/alexandrabsouz/javascript.estudos)
-* [Node.js](https://github.com/alexandrabsouz/nodejs.estudos)
-* [TypeScript](https://github.com/alexandrabsouz/typescript.estudos)
 
  <div align="center">
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabsouz&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
@@ -34,15 +32,12 @@
  <br>
 <div align="center">
         <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_python.png"></a>&nbsp;&nbsp;
-        <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_node.js.png"></a>&nbsp;&nbsp;
-        <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_typescript.png"></a>&nbsp;&nbsp; 
         <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_html5.png"></a>&nbsp;&nbsp;
         <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_css3.png"></a>&nbsp;&nbsp; 
         <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_js.png"></a>&nbsp;&nbsp; 
         <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_flask.png"></a> &nbsp;&nbsp;
         <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_django.png"></a> &nbsp;&nbsp;
         <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_bootstrap.png"></a> &nbsp;&nbsp;
-        <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_react.png"></a> &nbsp;&nbsp;
         <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_mysql.png"></a> &nbsp;&nbsp;
        <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_postgres.png"></a> 
        <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_AWS.png"></a>&nbsp;&nbsp;
