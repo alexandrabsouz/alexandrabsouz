@@ -5,7 +5,7 @@
 
 
 # Olá, seja muito bem vindo(a)!
-### Sou Alexandra Souza👩‍💻, estagiária de desenvolvimento de softwares na [Plugthink!](https://plugthink.com/)
+### Sou Alexandra Souza👩‍💻, estagiária de desenvolvimento de softwares com Python na [Plugthink!](https://plugthink.com/) e Desenvolvedora Web na [Aeroespacial - Tecnologia e Sistemas](https://www.aeroespacial.eng.br/#pagina-inicial)
 ### Estudante de Ciência da Computação do 4° periodo na [Estácio](https://matriculas.estacio.br/ciencia-da-computacao#:~:text=O%20Curso%20Superior%20de%20bacharelado,nas%20pessoas%20e%20na%20sociedade.).
  _Medir o progresso de um programa por linhas de código é como medir o processo de montagem de um avião pelo peso. <b>-Bill Gates_</b>
  <br><br>
