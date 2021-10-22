@@ -1,10 +1,10 @@
  ![visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexandrabsouz&repo=alexandrabsouz&countColorcountColor)
  <br><br><br>
-<img src="https://github.com/alexandrabsouz/img-git/blob/main/img/alexandra.png" min-width="400px" max-width="300px" width="400px" align="right" alt="Alexandra img">
-<br><br><br>
-
 
 # `Welcome!`
+
+<img src="https://github.com/alexandrabsouz/img-git/blob/main/img/alexandra.png" min-width="400px" max-width="300px" width="400px" align="right" alt="Alexandra img">
+<br><br>
 
 ## I'm Alexandra Souza, Junior Software Developer at [IZA.com.vc](https://iza.com.vc/)
 ## `4th` period of Computer Science
@@ -20,13 +20,9 @@
 <br>
 
 ## Tools 
+<img width=40 src="https://github.com/alexandrabsouz/img-git/blob/main/icons/600_452871757.jpeg"></a> &nbsp;&nbsp;
 <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_python.png"></a>&nbsp;&nbsp;
-<img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_html5.png"></a>&nbsp;&nbsp;
-<img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_css3.png"></a>&nbsp;&nbsp; 
 <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_js.png"></a>&nbsp;&nbsp; 
-<img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_flask.png"></a> &nbsp;&nbsp;
-<img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_django.png"></a> &nbsp;&nbsp;
-<img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_bootstrap.png"></a> &nbsp;&nbsp;
 <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_mysql.png"></a> &nbsp;&nbsp;
 <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_postgres.png"></a> 
 <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_AWS.png"></a>&nbsp;&nbsp;
