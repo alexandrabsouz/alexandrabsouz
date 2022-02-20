@@ -7,7 +7,7 @@
 <br><br>
 
 ## I'm Alexandra Souza, Software Developer at [IZA.com.vc](https://iza.com.vc/)
-## `4th` period of Computer Science
+## `5th` period of Computer Science
 <br> 
  <i>Measuring a program's progress by lines of code is like measuring the process of assembling an airplane by weight. <b>-Bill Gates</b></i>
 <br>
