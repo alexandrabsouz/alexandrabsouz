@@ -22,7 +22,6 @@
 ## Tools 
 <img width=40 src="https://github.com/alexandrabsouz/img-git/blob/main/icons/600_452871757.jpeg"></a> &nbsp;&nbsp;
 <img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_python.png"></a>&nbsp;&nbsp;
-<img src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_js.png"></a>&nbsp;&nbsp; 
 <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_mysql.png"></a> &nbsp;&nbsp;
 <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_postgres.png"></a> 
 <img width=30 src="https://github.com/alexandrabsouz/img/blob/main/icons/icon_AWS.png"></a>&nbsp;&nbsp;
