@@ -1,4 +1,4 @@
- ![visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexandrabsouz&repo=alexandrabsouz&countColorcountColor)
+![visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexandrabsouz&repo=alexandrabsouz&countColorcountColor)
  <br><br><br>
 
 # `Welcome!`
@@ -30,26 +30,14 @@
  
  <div>
  <a href="https://github.com/alexandrabsouz"></a>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabsouz&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true"> &nbsp;
-     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrabsouz&hide_border=true&theme=nightowl&show_icons=true"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabsouz&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true"> &nbsp;&nbsp;
+     <img src="https://github.com/alexandrabsouz/img-git/blob/main/gifs/robozinho.gif" min-width="400px" max-width="150px" width="250px" align="right" alt="Alexandra img"><br>
 <div>
 <br>
 <br>
-
- ![Snake animation](https://github.com/alexandrabsouz/alexandrabsouz/blob/output/github-contribution-grid-snake.svg)
-
- <br>
- <br>
-<img src="https://github.com/alexandrabsouz/img-git/blob/main/gifs/robozinho.gif" min-width="400px" max-width="150px" width="250px" align="right" alt="Alexandra img"><br>
+<br>
+<br>
  <p align="center"><b>Contact me</b></p>
 <p align="center">
  <a href="https://www.instagram.com/alexandrabsouz/"><img width=35 src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png"></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/alexandrabsouz/"><img width=35 src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"></a> &nbsp;&nbsp; <a href="https://api.whatsapp.com/send?phone=5593984232497&text=Que%20bacana!%20%C3%89%20um%20prazer%20receber%20voc%C3%AA%20aqui%20no%20WhatsApp.%20Estou%20%C3%A0%20sua%20disposi%C3%A7%C3%A3o."><img width=35 src="https://uploads-ssl.webflow.com/5b246014a3234f12eaa9303e/5fad2ec856335cc87e0b9261_moldeme_whatsapp.png"></a>  
 </p>
- 
- 
-
-
-
-
-
-
