@@ -1,4 +1,4 @@
-![visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=alexandrabsouz&repo=alexandrabsouz&countColorcountColor)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alexandrabsouz)
  <br><br><br>
 
 # `Welcome!`
