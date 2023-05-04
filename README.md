@@ -1,4 +1,3 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alexandrabsouz)
  <br><br><br>
 
 # `Welcome!`
@@ -7,7 +6,7 @@
 <br><br>
 
 ## I'm Alexandra Souza, Software Developer at [Stone.Co](https://www.stone.com.br/)
-## `6th` period of Computer Science
+## `7th` period of Computer Science
 <br> 
  <i>Measuring a program's progress by lines of code is like measuring the process of assembling an airplane by weight. <b>-Bill Gates</b></i>
 <br>
@@ -30,7 +29,6 @@
  
  <div>
  <a href="https://github.com/alexandrabsouz"></a>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabsouz&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true"> &nbsp;&nbsp;
      <img src="https://github.com/alexandrabsouz/img-git/blob/main/gifs/robozinho.gif" min-width="400px" max-width="150px" width="250px" align="right" alt="Alexandra img"><br>
 <div>
 <br>
