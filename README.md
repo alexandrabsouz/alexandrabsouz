@@ -6,7 +6,7 @@
 <br><br>
 
 ## I'm Alexandra Souza, Software Developer at [Stone.Co](https://www.stone.com.br/)
-## `7th` period of Computer Science
+## `8th` period of Computer Science
 <br> 
  <i>Measuring a program's progress by lines of code is like measuring the process of assembling an airplane by weight. <b>-Bill Gates</b></i>
 <br>
