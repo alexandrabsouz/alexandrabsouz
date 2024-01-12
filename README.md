@@ -5,7 +5,7 @@
 <img src="https://github.com/alexandrabsouz/img-git/blob/main/img/alexandra.png" min-width="400px" max-width="300px" width="400px" align="right" alt="Alexandra img">
 <br><br>
 
-## I'm Alexandra Souza, Software Developer at [Stone.Co](https://www.stone.com.br/)
+## I'm Alexandra Souza, Software Developer 
 ## `8th` period of Computer Science
 <br> 
  <i>Measuring a program's progress by lines of code is like measuring the process of assembling an airplane by weight. <b>-Bill Gates</b></i>
