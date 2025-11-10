@@ -35,8 +35,6 @@ Atualmente curso uma **pós-graduação em Inteligência Artificial** pela UTFPR
 
 ## 🚀 Projetos em destaque
 
-> _Clique nos nomes para abrir os repositórios_
-
 - **Sistema de retenção de clientes** — backend em Python com lógica de motivos de cancelamento e testes automatizados.  
 - **E-commerce Laravel (Cart & Checkout)** — implementação completa do fluxo de carrinho e integração de pagamentos.  
 - **Integração Google Calendar** — proof-of-concept em Node.js, com intenção de portar para Elixir.  
