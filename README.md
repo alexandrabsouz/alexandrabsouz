@@ -25,13 +25,11 @@ Atualmente curso uma **pós-graduação em Inteligência Artificial** pela UTFPR
 
 ## 🔧 Ferramentas & Tecnologias
 
-<p align="left">
-  <img alt="Python" src="https://raw.githubusercontent.com/alexandrabsouz/img/main/icons/icon_python.png" width="36"/>
-  <img alt="MySQL" src="https://raw.githubusercontent.com/alexandrabsouz/img/main/icons/icon_mysql.png" width="36"/>
-  <img alt="Postgres" src="https://raw.githubusercontent.com/alexandrabsouz/img/main/icons/icon_postgres.png" width="36"/>
-  <img alt="AWS" src="https://raw.githubusercontent.com/alexandrabsouz/img/main/icons/icon_AWS.png" width="36"/>
-  <img alt="GitHub" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="36"/>
-</p>
+**Linguagens:** Python · Elixir · PHP (Laravel) · JavaScript (Node.js)  
+**Banco de Dados:** PostgreSQL · MySQL · Redis  
+**Infra & Deploy:** Docker · AWS · Google Cloud · CI/CD (GitHub Actions)  
+**Monitoramento:** Datadog · Honeybadger  
+**Outros:** Git · REST APIs · Microservices Architecture · Testes automatizados
 
 ---
 
