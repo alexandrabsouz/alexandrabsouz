@@ -1,8 +1,11 @@
 # Alexandra Souza
 
-![Alexandra](https://github.com/alexandrabsouz/img-git/blob/main/img/alexandra.png)
+<p align="center">
+  <img src="https://github.com/alexandrabsouz/img-git/blob/main/img/alexandra.png" width="300" alt="Alexandra Souza" />
+</p>
 
-> **Software Developer & Computer Scientist** — Especialização em Inteligência Artificial (UTFPR) · Back-end Engineer (Python | Elixir)
+
+> **Software Developer & Computer Scientist** — Especialização em Inteligência Artificial (UTFPR) · Back-end Engineer 
 
 ---
 
