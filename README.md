@@ -52,5 +52,8 @@ Atualmente curso uma **pós-graduação em Inteligência Artificial** pela UTFPR
 
 ## 📈 Estatísticas
 
-```md
-<img src="https://github-readme-stats.vercel.app/api?username=alexandrabsouz&show_icons=true&theme=radical" alt="Alexandra's GitHub stats"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandrabsouz&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrabsouz&layout=compact&theme=radical" height="180em" />
+</p>
+
